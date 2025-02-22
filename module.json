@@ -1,0 +1,28 @@
+{
+  "id": "czechtranslationmonktokenbar",
+  "title": "CzechTranslationMonkTokenbar",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12.331",
+    "verified": "12.331"
+  },
+  "description": "Český překlad modulu Monk´s Tokenbar.",
+  "authors": [
+    {
+      "name": "Lethrendis",
+      "email": "michmildub@seznam.cz",
+      "discord": "Lethrendis",
+      "flags": {}
+    }
+  ],
+  "languages": [
+      {
+      "lang": "cs",
+      "name": "Čeština",
+      "path": "lang/cs.json"
+    }
+  ],      
+  "url": "https://github.com/Lethrendis/CzechTranslationMonkTokenbar",
+  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationMonkTokenbar/main/module.json",
+  "download": "https://github.com/Lethrendis/CzechTranslationMonkTokenbar/archive/refs/heads/main.zip"
+}
