@@ -10,7 +10,7 @@ Tento modul poskytuje českou lokalizaci pro Monk´s Tokenbar verze 12.04. Obsah
 Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
 
 ```
-https://github.com/Lethrendis/CzechTranslationMonkTokenbar
+https://raw.githubusercontent.com/Lethrendis/CzechTranslationMonkTokenbar/main/module.json
 ```
 
 ## Autor
